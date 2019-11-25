@@ -1,0 +1,23 @@
+{
+  "name": "menu-app",
+  "version": "1.0.0",
+  "description": "Simple CRUD menu app ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@polymer/app-layout": "^3.1.0",
+    "@polymer/app-route": "^3.0.2",
+    "@polymer/iron-pages": "^3.0.1",
+    "@polymer/iron-selector": "^3.0.1",
+    "@polymer/lit-element": "^0.7.1",
+    "@polymer/paper-icon-button": "^3.0.2",
+    "dish-detail": "github:armandolezama/lit-dish-detail-component",
+    "dish-form": "github:armandolezama/lit-dish-form-component",
+    "dish-list": "github:armandolezama/lit-dish-list-component",
+    "rate-component": "github:armandolezama/lit-rating-component"
+  }
+}
